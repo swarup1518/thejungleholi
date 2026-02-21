@@ -177,7 +177,8 @@ section {
 
 .about-section {
     background-image: url('images/about.png');
-    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
     position: relative;
 }
 
